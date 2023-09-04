@@ -1,2 +1,2 @@
 # my-website
-Create a website
+Create an Rmarkdown website
